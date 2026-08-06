@@ -73,9 +73,42 @@ li{
     margin-bottom: 10px;
 }
 article{
-    background-color: rgb(223, 240, 161);
+    background-color: rgb(109, 182, 241);
     padding: 20px;
     border-radius: 10px;
+}
+article:hover{
+    background-color: #86e9b7;
+}
+table{
+    width: 70%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color:#1508a5
+}
+td{
+    padding: 10px;
+    text-align: center;
+}
+table, th, td{
+    border:1px solid #d7cbf7
+}
+tr:hover{
+    background-color: #baeb6b;
+}
+ol{
+    margin-left: 50px;
+    padding: 10px;
+}
+ol li {
+    margin-bottom: 10px;
+}form {
+    margin-top: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 2px;
+    font-weight: bold;
 }
     
     
