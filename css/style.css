@@ -37,3 +37,25 @@ nav a{
 nav a:hover{
     text-decoration: underline;
 }
+main{
+    margin:auto;
+    width: 90%;
+    margin-top: 30px;
+}
+section{
+    margin-bottom: 30px;
+    background-color: #ded7f0;
+    padding: 20px;
+    border-radius: 20px;
+}
+h2{
+    color: #0c0e75;
+    margin-bottom: 10px;
+}
+p{
+    color: #1a1985;
+    margin-bottom: 10px;
+}
+    
+    
+
