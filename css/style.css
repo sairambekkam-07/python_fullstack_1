@@ -44,7 +44,7 @@ main{
 }
 section{
     margin-bottom: 30px;
-    background-color: #ded7f0;
+    background-color: #ccc1ec;
     padding: 20px;
     border-radius: 20px;
 }
@@ -118,6 +118,7 @@ label {
     border-radius: 5px;
     font-size: 16px;
     }
+    
 
     
 
