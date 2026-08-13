@@ -1,1 +1,1 @@
-alert("welcome to NRIIT Learning ManagementSystem");
+alert("Welcome to NRIIT Learning Management System");
